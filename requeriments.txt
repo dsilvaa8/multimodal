@@ -1,0 +1,8 @@
+#libraries
+numpy==1.24.0
+matplotlib==3.7.1
+tensorflow==2.13.0
+pillow==9.4.0
+keras==2.13.1
+scikit-learn==1.2.2
+
